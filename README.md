@@ -1,2 +1,1 @@
-# Hornet_Detection
-Hornet_Detection_Module
+# Licence-Plate-Detection-using-YOLO-V8
